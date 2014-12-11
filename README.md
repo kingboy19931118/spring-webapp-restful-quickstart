@@ -1,4 +1,4 @@
-Creating a web application using Spring 3 from scratch is not easy. This maven archetype can help you to build an small web application instantly. The archetype includes jetty plugin, so after creating the project you can run it at once.
+Creating a web application using Spring 3 from scratch is not easy. This maven archetype can help you to build a small web application instantly. The archetype includes jetty plugin, so after creating the project you can run it at once.
 
 ## Installation
 1. Clone it from Github
