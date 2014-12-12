@@ -8,10 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.Map;
 
-/**
- * Created by woody on 12/9/14.
- */
-
 @Controller
 public class HelloWorldController {
 
