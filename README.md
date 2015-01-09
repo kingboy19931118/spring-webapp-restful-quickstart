@@ -2,7 +2,7 @@ Creating a web application using Spring 3 from scratch is not easy. This maven a
 
 ## Installation
 1. Clone it from Github
-2. Run: `mvn clean install`. The archetype will be installed in your local maven repository. (Generally, it is located under ~/.m2/repositories.)
+2. Run: `mvn clean install`. The archetype will be installed in your local maven repository. (Generally, it is located in ~/.m2/repositories.)
 
 ## Create a webapp.
 Run `mvn archetype:generate` to start generating project in interactive mode. Choose 'com.woodywang.lab:spring-webapp-with-restful-api' as the archetype. Then follow the wizard and finally a webapp project will be created.
